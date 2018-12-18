@@ -11,4 +11,3 @@ class String
         end.join
     end
 end
-

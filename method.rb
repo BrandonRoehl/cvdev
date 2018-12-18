@@ -6,4 +6,3 @@ class Meta
         return name
     end
 end
-
